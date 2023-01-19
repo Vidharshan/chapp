@@ -1,9 +1,10 @@
 # chapp
-An online chatting application
+An online chatting application that combines whatsapp and snapchat
+Has public and private room features(with room code for joining).
 
-Created for ADP
+Made for ADP(Application Development Practices)
 
 Made by:
 Sai Aakaash
 Bharadwaj Sudarsan
-Vidharshana Revi
+Vidharshana Ravi
